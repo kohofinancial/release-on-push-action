@@ -1,5 +1,9 @@
 # Github Release On Push Action
 
+> [!NOTE]
+> We don't use this to create releases any longer; releases are created directly in the
+> reusable CI/CD workflow.
+
 > Stop using files for versioning. Use git tags instead!
 
 Github Action to create a Github Release on pushes to master.
